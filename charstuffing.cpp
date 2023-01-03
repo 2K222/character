@@ -21,7 +21,7 @@ main()
 	printf("\n enter the string:\n");
 	gets(str);
 	l=strlen(str);
-	for(j=0;i<1;i++)
+	for(j=0;i<l;i++)
 	{
 		if(str[i]==dle||str[i]==stx||str[i]==etx)
 		{
